@@ -1,3 +1,2 @@
 # That's a submod for OWB called Deathclaw++
-# 
-# And i really try to do this
+# Also i would like to know how to work with this
